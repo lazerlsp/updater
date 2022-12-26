@@ -1,0 +1,27 @@
+﻿{
+  "Host": "localhost",
+  "Port": 5400,
+  "GameFont": "sourcesansproblack",
+  "EntityNameFont": "sourcesansproblack",
+  "ChatBubbleFont": "sourcesansproblack",
+  "ActionMsgFont": "sourcesansproblack",
+  "UIFont": "sourcesanspro,8",
+  "ChatLines": 100,
+  "MenuMusic": "RPG-Theme_v001_Looping.ogg",
+  "MenuBackground": [
+    "background.png"
+  ],
+  "MenuBackgroundDisplayMode": "Default",
+  "MenuBackgroundFrameInterval": 50,
+  "IntroImages": [],
+  "UpdateUrl": "",
+  "MouseCursor": "",
+  "MusicFadeTimer": 1500,
+  "EnableContextMenus": true,
+  "UiSkin": "Intersect2021",
+  "EntityBarDirections": [
+    "StartToEnd",
+    "StartToEnd",
+    "StartToEnd"
+  ]
+}
